@@ -7,13 +7,13 @@
       <priority>1.0</priority>
    </url>
    <url>
-      <loc>https://lonetools.com/contact.html</loc>
+      <loc>https://lonetools.com/contact</loc>
       <lastmod>2023-09-09</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
    </url>
    <url>
-      <loc>https://lonetools.com/tools.html</loc>
+      <loc>https://lonetools.com/tools</loc>
       <lastmod>2023-09-09</lastmod>
       <changefreq>daily</changefreq>
       <priority>1</priority>
